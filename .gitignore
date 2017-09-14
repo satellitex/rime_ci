@@ -40,3 +40,6 @@ setup.*
 bin
 rime-out
 .DS_Store
+
+# pyenv
+.python-version
